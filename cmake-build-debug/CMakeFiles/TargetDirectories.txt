@@ -1,0 +1,3 @@
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Propuesta_Examen_-scar_Zayas/cmake-build-debug/CMakeFiles/Propuesta_Examen__scar_Zayas.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Propuesta_Examen_-scar_Zayas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oscca/OneDrive/Datos adjuntos/Documentos/GitHub/Propuesta_Examen_-scar_Zayas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
